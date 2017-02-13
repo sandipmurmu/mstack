@@ -1,0 +1,29 @@
+{
+  "name": "trasier",
+  "version": "1.0.0",
+  "description": "trasier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandipmurmu/mstack.git"
+  },
+  "author": "sandip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandipmurmu/mstack/issues"
+  },
+
+ "dependencies": {
+    "express":"latest",
+    "mongoose":"latest",
+    "rootpath":"latest"
+ },
+
+  "homepage": "https://github.com/sandipmurmu/mstack#readme"
+
+
+}
+

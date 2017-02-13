@@ -1,0 +1,21 @@
+{
+  "name": "trasier",
+  "main": "app.js",
+  "description": "trasier",
+  "authors": [
+    "sandip"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular":"latest",
+     "angular-ui-router":"latest"
+  }
+}
